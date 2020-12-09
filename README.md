@@ -12,9 +12,13 @@ It is important for the elements to follow a logical structure, not only with st
 
 You should always use alt attributes with images because it helps those with disabilities and makes the site more readable.
 
-# Link to portfolio
+# Screenshot
 
+(./Assets/horiseon-pg.png)
 
+# Link to deployed application
+
+https://github.com/CFox2019/GTBC-1st-HW-Horiseon
 
 - - -
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
