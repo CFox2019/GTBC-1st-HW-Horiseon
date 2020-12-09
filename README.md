@@ -14,7 +14,7 @@ You should always use alt attributes with images because it helps those with dis
 
 # Screenshot
 
-(./Assets/horiseon-pg.png)
+./Assets/horiseon-pg.png
 
 # Link to deployed application
 
