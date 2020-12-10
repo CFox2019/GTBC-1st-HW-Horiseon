@@ -12,6 +12,10 @@ It is important for the elements to follow a logical structure, not only with st
 
 You should always use alt attributes with images because it helps those with disabilities and makes the site more readable.
 
+# Sources
+
+Found information on semantic elements via https://www.w3schools.com/html/html5_semantic_elements.asp
+
 # Screenshot
 
 ![Code Refactor image](./Assets/horiseon-pg.png)
